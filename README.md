@@ -30,7 +30,6 @@ https://www.native-instruments.com/en/support/downloads/update-manager/?q=Kontak
 
 Described for Windows 10
 
-And you need to get the old Kontakt 5.
 
 - Give Write permission for you or all users to: c:\Program Files\Common Files\Native Instruments\Service Center
 - Use Kontakted to create the *.nicnt and wallpaper.png for your instrument
