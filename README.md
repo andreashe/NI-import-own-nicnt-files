@@ -14,7 +14,17 @@ https://www.abyssmultimedia.com/Kontacted/
 
 ## More requirements
 
+
 - Install git bash for Windows (to run this script)
+
+- Kontakt 5.6 
+
+I think, if you own a license, you can download it here:
+
+https://www.native-instruments.com/en/support/downloads/update-manager/?q=Kontakt&t=updates
+
+
+
 
 ## Steps
 
